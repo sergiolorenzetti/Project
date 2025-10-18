@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <signoNome>Áries</signoNome>
+        <signoID>aries</signoID>
+        <data_inicio>21/03</data_inicio>
+        <data_fim>19/04</data_fim>
+        <descricao>Pioneiro e corajoso, o ariano é pura energia e entusiasmo. Regido por Marte, tem uma liderança natural e não teme desafios.
+        Pontos Positivos: A sua coragem, otimismo e honestidade são contagiantes. É um signo de iniciativa, que age com paixão e espontaneidade.
+        Pontos a Melhorar: A sua impulsividade pode levar à impaciência e agressividade. Por vezes, a sua frontalidade pode magoar, e a sua energia pode torná-lo egoísta ou imprudente nas suas decisões.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Touro</signoNome>
+        <signoID>touro</signoID>
+        <data_inicio>20/04</data_inicio>
+        <data_fim>20/05</data_fim>
+        <descricao>Estável e persistente, o taurino busca segurança e conforto. Regido por Vénus, tem uma forte ligação com a natureza, a arte e os prazeres da vida.
+        Pontos Positivos: A sua lealdade, paciência e sentido prático fazem dele alguém de confiança. É determinado e muito dedicado em tudo o que faz.
+        Pontos a Melhorar: A sua determinação pode transformar-se em teimosia. Pode ser possessivo com pessoas e bens materiais, e a sua busca por conforto pode levar à preguiça ou à resistência a mudanças.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Gêmeos</signoNome>
+        <signoID>gemeos</signoID>
+        <data_inicio>21/05</data_inicio>
+        <data_fim>20/06</data_fim>
+        <descricao>Comunicativo e curioso, o geminiano é a mente inquieta do zodíaco. Regido por Mercúrio, adora aprender, socializar e trocar ideias.
+        Pontos Positivos: A sua versatilidade, inteligência e bom humor tornam-no uma companhia agradável. Adapta-se facilmente a novas situações e pessoas.
+        Pontos a Melhorar: A sua curiosidade pode levá-lo a ser superficial ou inconstante. Pode ter dificuldade com o compromisso e, por vezes, a sua dualidade é vista como falsidade ou falta de foco.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Câncer</signoNome>
+        <signoID>cancer</signoID>
+        <data_inicio>21/06</data_inicio>
+        <data_fim>22/07</data_fim>   
+        <descricao>Sensível e protetor, o canceriano é guiado pelas suas emoções e intuição. Regido pela Lua, valoriza profundamente a família, o lar e as memórias.
+        Pontos Positivos: A sua empatia, lealdade e capacidade de cuidar dos outros são imensas. É criativo e tem uma forte ligação emocional com quem ama.
+        Pontos a Melhorar: A sua sensibilidade pode torná-lo excessivamente magoável e rancoroso. Tende a ser temperamental, pessimista e, por vezes, manipulador para conseguir o que deseja.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Leão</signoNome>
+        <signoID>leao</signoID>
+        <data_inicio>23/07</data_inicio>
+        <data_fim>22/08</data_fim>
+        <descricao>Carismático e confiante, o leonino nasceu para brilhar. Regido pelo Sol, é generoso, dramático e adora ser o centro das atenções.
+        Pontos Positivos: A sua generosidade, criatividade e autoconfiança inspiram os outros. É um líder nato, com um coração nobre e leal.
+        Pontos a Melhorar: A sua necessidade de admiração pode torná-lo arrogante e egocêntrico. Pode ser autoritário, teimoso e excessivamente dramático quando contrariado.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Virgem</signoNome>
+        <signoID>virgem</signoID>
+        <data_inicio>23/08</data_inicio>
+        <data_fim>22/09</data_fim>
+        <descricao>Metódico e perfecionista, o virginiano tem uma mente analítica e um forte sentido de dever. Regido por Mercúrio, procura a ordem e a eficiência em tudo.
+        Pontos Positivos: A sua organização, praticidade e atenção ao detalhe são incomparáveis. É um amigo prestável, modesto e muito fiável.
+        Pontos a Melhorar: O seu perfecionismo pode transformá-lo num crítico severo, tanto de si mesmo como dos outros. Tende a ser ansioso, preocupado e pode perder-se nos pormenores.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Libra</signoNome>
+        <signoID>libra</signoID>
+        <data_inicio>23/09</data_inicio>
+        <data_fim>22/10</data_fim>  
+        <descricao>Diplomata e charmoso, o libriano busca harmonia e justiça. Regido por Vénus, valoriza as relações, a beleza e a cooperação.
+        Pontos Positivos: O seu sentido de justiça, gentileza e sociabilidade fazem dele um ótimo mediador. Procura sempre o equilíbrio e a paz.
+        Pontos a Melhorar: A sua aversão ao conflito pode torná-lo indeciso e incapaz de dizer "não". Pode ser superficial e dependente da aprovação dos outros para se sentir seguro.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Escorpião</signoNome>
+        <signoID>escorpiao</signoID>
+        <data_inicio>23/10</data_inicio>
+        <data_fim>21/11</data_fim>
+        <descricao>Intenso e misterioso, o escorpiano é pura paixão e poder. Regido por Plutão, mergulha profundamente nas emoções e procura a verdade oculta.
+        Pontos Positivos: A sua lealdade, determinação e intuição são muito fortes. É magnético, resiliente e um amigo para a vida inteira.
+        Pontos a Melhorar: As suas emoções profundas podem levar ao ciúme, à possessividade e ao desejo de vingança. Tende a ser desconfiado, controlador e a guardar ressentimentos.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Sagitário</signoNome>
+        <signoID>sagitario</signoID>
+        <data_inicio>22/11</data_inicio>
+        <data_fim>21/12</data_fim>
+        <descricao>Otimista e aventureiro, o sagitariano ama a liberdade e o conhecimento. Regido por Júpiter, está sempre em busca de novas filosofias, culturas e viagens.
+        Pontos Positivos: O seu bom humor, honestidade e espírito livre são contagiantes. É um eterno otimista que inspira os outros a expandir os seus horizontes.
+        Pontos a Melhorar: A sua honestidade pode ser excessiva, tornando-o indelicado e sem tato. Pode ser irresponsável e impaciente, com uma tendência a prometer mais do que consegue cumprir.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Capricórnio</signoNome>
+        <signoID>capricornio</signoID>
+        <data_inicio>22/12</data_inicio>
+        <data_fim>19/01</data_fim>
+        <descricao>Ambicioso e disciplinado, o capricorniano é o mestre do planeamento a longo prazo. Regido por Saturno, valoriza a responsabilidade, a tradição e o sucesso.
+        Pontos Positivos: A sua disciplina, paciência e sentido de responsabilidade são admiráveis. É um trabalhador incansável que constrói impérios com os pés bem assentes na terra.
+        Pontos a Melhorar: A sua seriedade pode ser vista como frieza ou pessimismo. Pode ser excessivamente focado no trabalho (workaholic), rígido e ter dificuldade em perdoar falhas, tanto as suas como as dos outros.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Aquário</signoNome>
+        <signoID>aquario</signoID>
+        <data_inicio>20/01</data_inicio>
+        <data_fim>18/02</data_fim>
+        <descricao>Original e humanitário, o aquariano é o visionário do zodíaco. Regido por Urano, valoriza a amizade, a liberdade e o progresso coletivo.
+        Pontos Positivos: A sua mente inovadora, independência e altruísmo fazem dele alguém à frente do seu tempo. É um amigo leal e intelectualmente estimulante.
+        Pontos a Melhorar: A sua necessidade de independência pode levá-lo a ser emocionalmente distante e imprevisível. Pode ser teimoso nas suas convicções e rebelde apenas por princípio.</descricao>
+    </signo>
+    <signo>
+        <signoNome>Peixes</signoNome>
+        <signoID>peixes</signoID>
+        <data_inicio>19/02</data_inicio>
+        <data_fim>20/03</data_fim>
+        <descricao>Sonhador e compassivo, o pisciano navega entre a realidade e a fantasia. Regido por Neptuno, possui uma empatia profunda e uma grande sensibilidade artística.
+        Pontos Positivos: A sua compaixão, intuição e criatividade são ilimitadas. É gentil, generoso e tem uma capacidade única de se conectar emocionalmente com os outros.
+        Pontos a Melhorar: A sua sensibilidade pode levá-lo ao escapismo e a uma mentalidade de vítima. Tende a ser facilmente influenciado, vago e pode ter dificuldade em impor limites e em lidar com a dureza da realidade.</descricao>
+    </signo>
+</signos>
