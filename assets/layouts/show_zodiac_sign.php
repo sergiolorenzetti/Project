@@ -15,12 +15,13 @@ if (!empty($nome) && !empty($data_nascimento_input)) {
     $data_nascimento = strtotime($data_nascimento_input);
     $ano_nascimento = date('Y', $data_nascimento);
 
+    $encontrado = false;
+
     foreach ($xml->signo as $signo) {
         $data_inicio_str = str_replace('/', '-', (string) $signo->data_inicio . '/' . $ano_nascimento);
         $data_fim_str = str_replace('/', '-', (string) $signo->data_fim . '/' . $ano_nascimento);
         $data_inicio_ts = strtotime($data_inicio_str);
         $data_fim_ts = strtotime($data_fim_str);
-        $encontrado = false;
 
         if ($data_fim_ts < $data_inicio_ts) {
             if ($data_nascimento >= $data_inicio_ts || $data_nascimento <= $data_fim_ts) {
